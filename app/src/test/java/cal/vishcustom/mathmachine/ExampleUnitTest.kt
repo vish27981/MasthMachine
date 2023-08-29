@@ -1,4 +1,4 @@
-package com.vishcustom.mathmachine
+package cal.vishcustom.mathmachine
 
 import org.junit.Test
 

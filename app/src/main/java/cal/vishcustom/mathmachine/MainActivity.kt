@@ -1,10 +1,11 @@
-package com.vishcustom.mathmachine
+package cal.vishcustom.mathmachine
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.TextView
+import com.vishcustom.mathmachine.R
 
 class MainActivity : AppCompatActivity() {
     // Represent whether the lastly pressed key is numeric or not
